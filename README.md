@@ -1,4 +1,4 @@
-# Visualising_Convolutional_Networks
+# Visualising Convolutional Networks
 
 In this repository, I have tried to implement the work presented in ["Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps"](https://arxiv.org/pdf/1312.6034.pdf) by Simonyan et al. The gradient of the class score is calculated w.r.t. the input image, which maximises the class score. This generates an image which visualises the notion of the class as seen by the Convolutional Network. 
 
